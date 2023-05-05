@@ -1,0 +1,27 @@
+EXPORTS 
+	SZ_BufftoBuffCompress
+	SZ_BufftoBuffDecompress
+	SZ_Compress
+	SZ_encoder_enabled
+	aec_buffer_decode
+	aec_buffer_encode
+	aec_decode
+	aec_decode_end
+	aec_decode_init
+	aec_encode
+	aec_encode_end
+	aec_encode_init
+	aec_get_8
+	aec_get_lsb_16
+	aec_get_lsb_24
+	aec_get_lsb_32
+	aec_get_msb_16
+	aec_get_msb_24
+	aec_get_msb_32
+	aec_get_rsi_8
+	aec_get_rsi_lsb_16
+	aec_get_rsi_lsb_24
+	aec_get_rsi_lsb_32
+	aec_get_rsi_msb_16
+	aec_get_rsi_msb_24
+	aec_get_rsi_msb_32

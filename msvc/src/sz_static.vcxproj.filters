@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include=".\sz.dir\vc$(PlatformToolsetVersion)\$(Platform)\$(Configuration)\sz_compat.obj" />
+    <Object Include=".\aec.dir\vc$(PlatformToolsetVersion)\$(Platform)\$(Configuration)\encode.obj" />
+    <Object Include=".\aec.dir\vc$(PlatformToolsetVersion)\$(Platform)\$(Configuration)\encode_accessors.obj" />
+    <Object Include=".\aec.dir\vc$(PlatformToolsetVersion)\$(Platform)\$(Configuration)\decode.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{801985CD-9714-3748-A8C6-7F226991E13F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
